@@ -18,7 +18,7 @@ function setBestCustomer()
 
 function overWriteBestCustomer()
 {
-  bestCustomer = 'maybe bob';
+  bestCustomer = 'maybe bob'; // maynot though...
 }
 
 const favoriteCustomer = 'Ali';
