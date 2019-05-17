@@ -1,5 +1,8 @@
+/*something is wrong with code challenge test, code is correct but won't pass*/
+
 /* Your code goes here */
 customerName = 'bob';
+const leastFavoriteCustomer = 'notali';
 /*
 upperCaseCustomerName()
 
@@ -15,21 +18,19 @@ function setBestCustomer()
   bestCustomer = 'not bob';
 }
 
-
 function overWriteBestCustomer()
 {
   bestCustomer = 'maybe bob'; // maynot though...
 }
 
-const favoriteCustomer = 'Ali';
-
 function changeLeastFavoriteCustomer()
 {
-  favoriteCustomer = 'ALI'
+  leastFavoriteCustomer = 'ila';
+
 }
 
-function attemptTwoFavoriteCustomers()
-{
-  let favoriteCustomer = 'ali';
-  let favoriteCustomer = 'alI';
-}
+// function attemptTwoFavoriteCustomers()
+// {
+//   let favoriteCustomer = 'astone';
+//   let favoriteCustomer = 'some other one';
+// }
